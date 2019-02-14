@@ -1,1 +1,1 @@
-module github.com/adi93/utils
+module github.com/adi93/goutils
